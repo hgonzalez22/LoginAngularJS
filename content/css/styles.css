@@ -1,0 +1,10 @@
+
+    input[type="text"]{
+        border-bottom-right-radius: opx;
+        border-bottom-left-radius: 0px;
+    }
+    input[type="password"]{
+        border-bottom-right-radius: opx;
+        border-bottom-left-radius: 0px;
+        border-top: 0px;       
+    }       
